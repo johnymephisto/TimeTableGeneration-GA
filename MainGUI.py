@@ -83,7 +83,7 @@ def generate():
     print(lis)
     pickle.dump(lis,f)
     f.close()
-    os.system("python johnylogic.py")
+    os.system("python GAimplemented.py")
 
     f=open("johny.txt","rb")
     #ou=0
