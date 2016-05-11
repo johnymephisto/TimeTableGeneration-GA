@@ -3,9 +3,9 @@ Time Table Generation using Genetic Algorithm for a College.
 
 *********************************************************************************************************
 
-Run mainGUI.py to start the program
+Run MainGUI.py to start the program
 
-The MainGUI.py is the main interface program
+MainGUI.py is the main interface program
 
 username = root
 password = root
